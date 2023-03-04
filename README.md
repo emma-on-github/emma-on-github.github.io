@@ -1,6 +1,4 @@
-## **ADD NAME HERE**
-
-ADD LINKS HERE
+ADD LINKS HERE LATER
 
 
 **Personal Profile**
