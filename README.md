@@ -1,29 +1,36 @@
-# paulhicks01.github.io
-
-ADD NAME HERE
+## **ADD NAME HERE**
 
 ADD LINKS HERE
 
-Personal Profile
+
+**Personal Profile**
 
 ADD PROFILE HERE
 
-Key Skills
 
-ADD SKILLS HERE
+**Key Skills**
 
-Employment History
+- ADD SKILLS HERE
+- ADD SKILLS HERE
+- ADD SKILLS HERE
+
+
+**Employment History**
 
 ADD HISTORY HERE
 
-Education and Qualifications
+
+**Education and Qualifications**
 
 ADD EDUCATION HERE
 
-Continuing Professional Development
 
-ADD CPD HERE
+**Continuing Professional Development**
 
-Additional Information
+- ADD CPD HERE
+- ADD CPD HERE
 
-ADD INFORMATION HERE
+**Additional Information**
+
+- ADD INFORMATION HERE
+- ADD INFORMATION HERE
