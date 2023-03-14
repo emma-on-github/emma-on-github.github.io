@@ -6,7 +6,7 @@ Experience with Relational Database Management Systems (RDBMS), Financial Manage
 
 #### Links:
 
-[LinkedIn](www.linkedin.com/in/pauljohnhicks)
+[LinkedIn](https://www.linkedin.com/in/pauljohnhicks)
 
 [myGwork](https://www.mygwork.com/en/members/professionals/paul-hicks/detail)
 
