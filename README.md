@@ -24,3 +24,5 @@ Experience with Relational Database Management Systems (RDBMS), Financial Manage
 [myGwork](https://www.mygwork.com/en/members/professionals/paul-hicks/detail)
 
 [GitHub](https://github.com/paulhicks01)
+
+[DataCamp](https://app.datacamp.com/profile/pauljohnhicks)
