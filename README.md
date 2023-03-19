@@ -16,3 +16,13 @@ Experience with Relational Database Management Systems (RDBMS), Financial Manage
 
 **Oxford Brookes University**
 - BA (Hons) Business & Management
+
+#### Links:
+
+[LinkedIn](https://www.linkedin.com/in/pauljohnhicks)
+
+[myGwork](https://www.mygwork.com/en/members/professionals/paul-hicks/detail)
+
+[GitHub](https://github.com/paulhicks01)
+
+[DataCamp](https://app.datacamp.com/profile/pauljohnhicks)
