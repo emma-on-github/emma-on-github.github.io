@@ -26,14 +26,3 @@ Data Administrator with sixteen years’ experience.  A conscientious individual
 [Tableau Public](https://public.tableau.com/app/profile/paul.hicks)
 
 [GitHub](https://github.com/paulhicks01)
-
-[GitHub Project Page - Courses and Learning Resources](https://paulhicks01.github.io/courses-and-learning-resources/)
-
-[GitHub Project Page - LGBTQI+ Campaigner](https://paulhicks01.github.io/lgbtqi_campaigner/)
-
-[GitHub Project Page - Mental Health Campaigner](https://paulhicks01.github.io/mental_health_campaigner/)
-
-[Neo4j - Neo4j Fundamentals](https://graphacademy.neo4j.com/u/3f6828c8-79ef-4dab-b712-9f2014f0e079/neo4j-fundamentals)
-
-[Neo4j - Cypher Fundamentals](https://graphacademy.neo4j.com/u/3f6828c8-79ef-4dab-b712-9f2014f0e079/cypher-fundamentals)
-
