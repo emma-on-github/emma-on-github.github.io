@@ -16,16 +16,3 @@ Data Administrator with sixteen years’ experience.  A conscientious individual
 **Oxford Brookes University**
 -	BA (Hons) Business & Management
 
-
-#### Links:
-
-[LinkedIn](https://www.linkedin.com/in/pauljohnhicks)
-
-[myGwork](https://www.mygwork.com/en/members/professionals/paul-hicks/detail)
-
-[DataCamp](https://app.datacamp.com/profile/pauljohnhicks)
-
-[Tableau Public](https://public.tableau.com/app/profile/paul.hicks)
-
-[GitHub](https://github.com/paulhicks01)
-
