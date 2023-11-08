@@ -16,3 +16,17 @@ Data Administrator with sixteen years’ experience.  A conscientious individual
 **Oxford Brookes University**
 -	BA (Hons) Business & Management
 
+
+#### Links:
+
+[LinkedIn]( https://www.linkedin.com/in/emmahicks01)
+
+[myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail
+)
+
+[DataCamp](https://www.datacamp.com/portfolio/emma-hicks)
+
+[Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
+
+[GitHub](https://github.com/emma-on-github)
+
