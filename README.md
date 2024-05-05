@@ -1,6 +1,6 @@
 #### Personal Profile:
 
-Data Administrator with seventeen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source data research and data manipulation within Microsoft Excel.  Seeking part time employment (2 – 3 days a week) within a dynamic organization in West Oxfordshire, UK where increased responsibility can be obtained in the future.
+Data Administrator with seventeen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source intelligence and data management within Microsoft Excel.  Seeking part time employment (2 – 3 days a week) within a dynamic organization in West Oxfordshire, UK where increased responsibility can be obtained in the future.
 
 #### Education:
 
