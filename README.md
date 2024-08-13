@@ -5,6 +5,8 @@ Data Administrator with seventeen years’ experience.  A conscientious individu
 #### Education:
 
 **Association of Chartered Certified Accountants**
+
+-	Certificate in Ethical Artificial Intelligence
 -	Certificate in FinTech for Finance and Business Leaders
 -	Certificate in Digital Innovation for Finance
 -	Certificate in Data Analytics
@@ -14,7 +16,6 @@ Data Administrator with seventeen years’ experience.  A conscientious individu
 
 **Oxford Brookes University**
 -	BA (Hons) Business & Management
-
 
 #### Links:
 
