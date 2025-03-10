@@ -23,6 +23,5 @@ Member of The British Computer Society (MBCS)
 
 #### Links:
 
-[LinkedIn]( https://www.linkedin.com/in/emmahicks01)  |  [myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail
-)  |  [DataCamp](https://www.datacamp.com/portfolio/emma-hicks)  |  [W3Schools](https://www.w3profile.com/emmahicks)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [GitHub](https://github.com/emma-on-github)
+[LinkedIn]( https://www.linkedin.com/in/emmahicks01)  |  [myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail)  |  [DataCamp](https://www.datacamp.com/portfolio/emma-hicks)  |  [W3Schools](https://www.w3profile.com/emmahicks)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [GitHub](https://github.com/emma-on-github)
 
