@@ -1,6 +1,10 @@
 #### Personal Profile:
 
-Data Administrator with eighteen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source intelligence and data management within Microsoft Excel.  Seeking part time employment (2 – 3 days a week) within a dynamic organisation in West Oxfordshire where increased responsibility can be obtained in the future.
+Data Administrator with eighteen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source intelligence and data management within Microsoft Excel.  Seeking part time employment (2 – 3 days a week) within a dynamic organisation in West Oxfordshire, UK where increased responsibility can be obtained in the future.
+
+#### Professional Membership:
+
+Member of The British Computer Society (MBCS)
 
 #### Education:
 
@@ -19,14 +23,6 @@ Data Administrator with eighteen years’ experience.  A conscientious individua
 
 #### Links:
 
-[LinkedIn]( https://www.linkedin.com/in/emmahicks01)
-
-[myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail
-)
-
-[DataCamp](https://www.datacamp.com/portfolio/emma-hicks)
-
-[Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
-
-[GitHub](https://github.com/emma-on-github)
+[LinkedIn]( https://www.linkedin.com/in/emmahicks01)  |  [myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail
+)  |  [DataCamp](https://www.datacamp.com/portfolio/emma-hicks)  |  [W3Schools](https://www.w3profile.com/emmahicks)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [GitHub](https://github.com/emma-on-github)
 
