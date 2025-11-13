@@ -17,14 +17,14 @@ Member of The British Computer Society (MBCS)
 
 **Association of Chartered Certified Accountants**
 
--	Certificate in Sustainability Frameworks and Ethics
--	Certificate in Ethical Artificial Intelligence
--	Certificate in FinTech for Finance and Business Leaders
--	Certificate in Digital Innovation for Finance
--	Certificate in Data Analytics
+-	Certificate in Sustainability Frameworks and Ethics (Cert SFE)
+-	Certificate in Ethical Artificial Intelligence (Cert EAI)
+-	Certificate in FinTech for Finance and Business Leaders (Cert FinTech)
+-	Certificate in Digital Innovation for Finance (Cert DIF)
+-	Certificate in Data Analytics (Cert DA)
 
 **The Open University**
--	Certificate in Computing & Mathematics
+-	Certificate in Computing & Mathematics (Cert CompMaths (Open))
 
 **Oxford Brookes University**
 -	BA (Hons) Business & Management
