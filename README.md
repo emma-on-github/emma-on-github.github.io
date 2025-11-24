@@ -7,12 +7,17 @@ Data Administrator with eighteen years’ experience.  A conscientious individua
 
 Member of The British Computer Society (MBCS)
 
-#### Certifications:
+#### Certifications (W3Schools):
 
--	SQL (W3Schools)
--	Python (W3Schools)
--	AI Fundamentals (DataCamp)
--	Data Literacy (DataCamp)
+-	SQL
+-	MySQL
+-	Python
+-	Backend Developer with Python
+
+#### Certifications (DataCamp):
+
+-	AI Fundamentals
+-	Data Literacy
 
 #### Education:
 
