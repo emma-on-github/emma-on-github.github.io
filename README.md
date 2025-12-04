@@ -4,7 +4,8 @@ Data Administrator with nineteen years’ experience.  A conscientious individua
 
 #### Professional Membership:
 
-Member of The British Computer Society (MBCS)
+Member of BCS - The Chartered Institute for IT
+
 
 #### Certifications (W3Schools):
 
