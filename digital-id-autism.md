@@ -1,3 +1,8 @@
+---
+title: Digital IDs and Autism: Why the UK's Digital ID System Must Be Inclusive
+layout: default
+---
+
 # Digital IDs and Autism: Why the UK's Digital ID System Must Be Inclusive
 
 The UK government’s push for a national digital ID system has sparked significant debate across technology, policy, and civil rights communities. While supporters highlight potential benefits—such as streamlining services, reducing fraud, and improving government efficiency—there is a pressing need to consider the diverse and often overlooked impact on vulnerable groups. One group that stands to be particularly affected is autistic people.
