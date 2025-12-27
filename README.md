@@ -37,6 +37,11 @@ Member of BCS - The Chartered Institute for IT
 [GitHub](https://github.com/emma-on-github)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [Kaggle]( https://www.kaggle.com/emmahicks)  |  [Fundraising For Prostate Cancer UK](https://www.justgiving.com/fundraising/bidwells-oxford-10k-2026-835274?utm_medium=FR&utm_source=CL)
 
 
+#### GitHub Pages:
+
+[Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)  |  [LGBTQI+ Campaigner](https://emma-on-github.github.io/lgbtqi_campaigner/)  |  [Mental Health Campaigner](https://emma-on-github.github.io/mental_health_campaigner/)  |  [Courses and Learning Resources](https://emma-on-github.github.io/courses-and-learning-resources/)
+
+
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/afd2f2a8-98a1-4f2f-a071-31ce52f8f9f8" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/9c0d25c8-8be9-450a-b20f-1f9378781d89" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/67d3cc44-7921-4c64-9ea3-7fa066fe2182" />
