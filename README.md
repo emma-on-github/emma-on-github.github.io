@@ -37,8 +37,8 @@ Member of BCS - The Chartered Institute for IT
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/9c0d25c8-8be9-450a-b20f-1f9378781d89" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/67d3cc44-7921-4c64-9ea3-7fa066fe2182" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/d49c9422-f2ca-4e7f-b066-8bb0610331bc" />
-<img width="240" alt="image" src="https://github.com/user-attachments/assets/87d7e66d-b7d1-45f9-bbd1-95292b175f58" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/d1e8885d-ff7a-4ab2-903b-d5aed1650390" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8ebe6908-628f-4d10-bfd4-255a3cd78f70" />
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/a051e3e2-e7d7-46ae-98d9-9304fc01e4fd" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/87d7e66d-b7d1-45f9-bbd1-95292b175f58" />
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/a051e3e2-e7d7-46ae-98d9-9304fc01e4fd" />
 
