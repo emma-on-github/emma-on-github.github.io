@@ -6,12 +6,18 @@ Data Administrator with nineteen years’ experience.  A conscientious individua
 
 Member of BCS - The Chartered Institute for IT
 
-#### Certifications:
+#### Coursera Certifications:
+-	Google Data Analysis with Python
+-	Microsoft SQL Foundations
 
--	Coursera - Google Data Analysis with Python
--	W3Schools - Python
--	W3Schools - SQL
--	W3Schools - MySQL
+#### DataCamp Certifications:
+-	AI Fundamentals
+-	Data Literacy
+
+#### W3Schools Certifications:
+-	Python
+-	SQL
+-	MySQL
 
 #### Education:
 
