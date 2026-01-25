@@ -21,6 +21,7 @@ Member of BCS - The Chartered Institute for IT
 
 **W3Schools**
 -	Python
+-	Pandas
 -	SQL
 -	MySQL
 
@@ -45,7 +46,8 @@ Member of BCS - The Chartered Institute for IT
 
 #### Links:
 
-[LinkedIn]( https://www.linkedin.com/in/emmahicks01)  |  [myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail)  |  [DataCamp](https://www.datacamp.com/portfolio/emma-hicks)  |  [W3Schools](https://www.w3profile.com/emmahicks)  |  [Coursera]( https://www.coursera.org/user/301fd5ed1fa3d0377c3670b174d2d8a2)  |  [Credly](https://www.credly.com/users/emma-louise-hicks)  |  [GitHub](https://github.com/emma-on-github)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [Kaggle]( https://www.kaggle.com/emmahicks)  |  [JustGiving ](https://www.justgiving.com/fundraising/bidwells-oxford-10k-2026-835274?utm_medium=FR&utm_source=CL)
+[LinkedIn]( https://www.linkedin.com/in/emmahicks01)  |  [myGwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail)  |  [DataCamp](https://www.datacamp.com/portfolio/emma-hicks)  |  [W3Schools](https://www.w3profile.com/emmahicks)  |  [Coursera]( https://www.coursera.org/user/301fd5ed1fa3d0377c3670b174d2d8a2)  
+[Credly](https://www.credly.com/users/emma-louise-hicks)  |  [GitHub](https://github.com/emma-on-github)  |  [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)  |  [Kaggle]( https://www.kaggle.com/emmahicks)  |  [JustGiving ](https://www.justgiving.com/fundraising/bidwells-oxford-10k-2026-835274?utm_medium=FR&utm_source=CL)
 
 ---
 
