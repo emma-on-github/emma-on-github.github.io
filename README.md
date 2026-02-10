@@ -9,25 +9,21 @@ Data Administrator with nineteen years’ experience.  A conscientious individua
 Member of BCS - The Chartered Institute for IT
 
 ---
-#### Certifications:
+
+#### Programming Skills:
+
+-	[SQL](https://verify.w3schools.com/1Q7AN4SS55)
+-	[MySQL](https://verify.w3schools.com/1QIZLX68MZ)
+-	[Pandas](https://verify.w3schools.com/1QPTSL8I0S)
+-	[Python](https://verify.w3schools.com/1QEWNFSOT4)
+
+---
+
+#### Education and Training:
 
 **Coursera**
 -	Google Data Analysis with Python
 -	Microsoft SQL Foundations
-
-**DataCamp**
--	AI Fundamentals
--	Data Literacy
-
-**W3Schools**
--	Python
--	Pandas
--	SQL
--	MySQL
-
----
-
-#### Education:
 
 **Association of Chartered Certified Accountants**
 -	Certificate in Sustainability Frameworks and Ethics
