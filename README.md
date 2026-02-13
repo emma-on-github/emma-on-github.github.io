@@ -22,6 +22,7 @@ Member of BCS - The Chartered Institute for IT
 #### Education and Training:
 
 **Coursera**
+-	Google Cloud Generative AI Leader Professional Certificate
 -	Google Data Analysis with Python
 -	Microsoft SQL Foundations
 
