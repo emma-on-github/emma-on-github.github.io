@@ -10,12 +10,13 @@ Member of BCS - The Chartered Institute for IT
 
 ---
 
-#### Programming Skills:
+#### Programming Skills and Prompt Engineering:
 
 -	[SQL](https://verify.w3schools.com/1Q7AN4SS55)
 -	[MySQL](https://verify.w3schools.com/1QIZLX68MZ)
 -	[Pandas](https://verify.w3schools.com/1QPTSL8I0S)
 -	[Python](https://verify.w3schools.com/1QEWNFSOT4)
+-	[Vibe Coding](https://github.com/emma-on-github/Translate-to-English)
 
 ---
 
