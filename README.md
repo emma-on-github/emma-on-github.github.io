@@ -56,7 +56,4 @@ Member of BCS - The Chartered Institute for IT
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8ebe6908-628f-4d10-bfd4-255a3cd78f70" />
 <img width="210" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/71b34146-5e70-4a31-b228-1eb16a6622d3" />
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/87d7e66d-b7d1-45f9-bbd1-95292b175f58" />
-<img width="190" alt="image" src="https://github.com/user-attachments/assets/a051e3e2-e7d7-46ae-98d9-9304fc01e4fd" />
-<img width="500" alt="pcuk_supporting_black_rgb_supporting-1" src="https://github.com/user-attachments/assets/c59ae5a2-0141-467d-887e-d6b2967f7ab9" />
 
-Prostate Cancer UK is a registered charity in England and Wales (1005541) and in Scotland (SC039332). Registered company 02653887.
