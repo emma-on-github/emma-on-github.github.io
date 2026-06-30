@@ -1,3 +1,8 @@
+---
+title: Emma Hicks
+description: Emma Hicks
+---
+
 #### Personal Profile:
 
 Data Administrator with nineteen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source intelligence and data management.
