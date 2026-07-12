@@ -28,9 +28,10 @@ Member of BCS - The Chartered Institute for IT
 #### Education and Training:
 
 **Coursera**
--	AWS Generative AI Applications Professional Certificate
 -	Google Cloud Generative AI Leader Professional Certificate
+-	Google Cloud Digital Leader Professional Certificate
 -	Google AI Professional Certificate
+-	AWS Generative AI Applications Professional Certificate
 
 **Association of Chartered Certified Accountants**
 -	Certificate in Sustainability Frameworks and Ethics
