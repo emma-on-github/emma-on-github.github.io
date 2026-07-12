@@ -50,10 +50,11 @@ Member of BCS - The Chartered Institute for IT
 
 #### GitHub Pages:
 
-- [TransGuide UK](https://emma-on-github.github.io/transguide-uk/) 
-- [Volunteering Experience](https://emma-on-github.github.io/volunteering-experience/)
-- [Courses and Learning Resources](https://emma-on-github.github.io/courses-and-learning-resources/)
-- [Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
+-	[TransGuide UK](https://emma-on-github.github.io/transguide-uk/) 
+-	[Volunteering Experience](https://emma-on-github.github.io/volunteering-experience/)
+-	[Courses and Learning Resources](https://emma-on-github.github.io/courses-and-learning-resources/)
+-	[Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
+-	[Navigating Dignity, Accessibility and Inclusion](https://emma-on-github.github.io/Navigating-Dignity-Accessibility-and-Inclusion/)
 
 ---
 
