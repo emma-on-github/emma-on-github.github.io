@@ -5,7 +5,7 @@ description: Emma Hicks
 
 #### Personal Profile:
 
-Data Administrator with nineteen years’ experience.  A conscientious individual who values achievement, integrity, and quality.  Experience with several information technology systems (MIS, CRM, FMS), open-source intelligence and data management.
+Data Administrator with nineteen years’ experience managing information systems across the charity, healthcare and retail sectors.  Proficient in MIS, CRM, FMS and Excel, with recent professional development in SQL, Python and AI.  
 
 ---
 
@@ -25,7 +25,7 @@ Member of BCS - The Chartered Institute for IT
 
 ---
 
-#### Education and Training:
+#### Education and Professional Certifications:
 
 **Coursera**
 -	Google Cloud Generative AI Leader Professional Certificate
