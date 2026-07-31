@@ -1,6 +1,6 @@
 ---
 title: Emma Hicks
-description: Emma Hicks
+description: Data Administrator | MBCS | Neurodivergent | Open to new opportunities
 ---
 
 #### Personal Profile:
