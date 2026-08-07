@@ -15,36 +15,54 @@ Member of BCS - The Chartered Institute for IT
 
 ---
 
-#### Programming Skills and Prompt Engineering:
+#### Programming Skills:
 
 -	[SQL](https://verify.w3schools.com/1Q7AN4SS55)
 -	[MySQL](https://verify.w3schools.com/1QIZLX68MZ)
--	[Pandas](https://verify.w3schools.com/1QPTSL8I0S)
+-	[PostgreSQL](https://verify.w3schools.com/6BX5FGRN4)
 -	[Python](https://verify.w3schools.com/1QEWNFSOT4)
--	[Vibe Coding](https://github.com/emma-on-github/Translate-to-English)
+-	[Pandas](https://verify.w3schools.com/1QPTSL8I0S)
 
 ---
 
-#### Education and Professional Certifications:
+#### Prompt Engineering Skills:
+
+-	[Google AI Studio](https://github.com/emma-on-github/Translate-to-English)
+-	[AWS PartyRock](https://partyrock.aws/u/emmahicks)
+
+---
+
+#### Professional Certifications:
 
 **Coursera**
--	Google Cloud Generative AI Leader Professional Certificate
--	Google Cloud Digital Leader Professional Certificate
--	Google AI Professional Certificate
--	AWS Generative AI Applications Professional Certificate
+-	[Google Cloud Generative AI Leader Professional Certificate](https://coursera.org/share/a645fcca5e74f351ff3f4346fd51ff17)
+-	[Google Cloud Digital Leader Professional Certificate](https://coursera.org/share/e941f6c100169833688ee4e5adbe9a7d)
+-	[Google AI Professional Certificate](https://coursera.org/share/b6b687cacdcd0dc4fcffa5339ce25950)
+-	[AWS Generative AI Applications Professional Certificate](https://coursera.org/share/c9f9815dbf9f3bfe963a65496c9eebb5)
 
-**Association of Chartered Certified Accountants**
+
+**DataCamp**
+-	[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027238940059)
+-	[Data Literacy](https://www.datacamp.com/skill-verification/DL0031514998998)
+
+
+**Association of Chartered Certified Accountants (ACCA)**
 -	Certificate in Sustainability Frameworks and Ethics
 -	Certificate in Ethical Artificial Intelligence
 -	Certificate in FinTech for Finance and Business Leaders
 -	Certificate in Digital Innovation for Finance
 -	Certificate in Data Analytics
 
+---
+
+#### Education:
+
 **The Open University**
--	Certificate in Computing & Mathematics
+-	Certificate in Computing and Mathematics
 
 **Oxford Brookes University**
--	BA (Hons) Business & Management
+-	BA (Hons) Business and Management
+
 
 ---
 
