@@ -5,13 +5,15 @@ description: Data Administrator | Neurodivergent | Open to new opportunities
 
 #### Personal Profile:
 
-Data Administrator with nineteen years’ experience managing information systems across the charity, healthcare and retail sectors.  Proficient in MIS, CRM, FMS and Excel, with recent professional development in SQL, Python and AI.  
+Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.
 
 ---
 
 #### Professional Membership:
 
-Member of BCS - The Chartered Institute for IT
+- Professional Member (MBCS), BCS – The Chartered Institute for IT
+- Member, DAMA UK – The Data Management Association
+- Member, The Institute of AI (IoAI) – The Professional Body for AI
 
 ---
 
