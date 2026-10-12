@@ -91,7 +91,7 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 
 ---
 
-### Professional Online Profiles:
+#### Professional Online Profiles:
 
 -	[mygwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail)
 -	[GitHub](https://github.com/emma-on-github)
@@ -99,12 +99,6 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 -	[Credly](https://www.credly.com/users/emma-louise-hicks)
 -	[Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
 
-
----
-
-### Supporting:
-
-I am proudly supporting Prostate Cancer UK by raising awareness. To learn more about their vital work or to check your risk, visit [Prostate Cancer UK](https://prostatecanceruk.org).
 
 ---
 
@@ -116,9 +110,15 @@ I am proudly supporting Prostate Cancer UK by raising awareness. To learn more a
 <img width="240" alt="Google Data Aanalysis with Python Badge 08 12 25" src="https://github.com/user-attachments/assets/711f841a-2d57-42f8-91cc-1f8c5f3e555c" />
 <img width="400" alt="pcuk_supporting_black_rgb_supporting-1" src="https://github.com/user-attachments/assets/98d5fbc1-a6dc-4a9d-8546-eadd2db56f1b" />
 
+---
+#### Supporting:
 
+Proudly supporting Prostate Cancer UK by raising awareness. To learn more about their vital work or to check your risk, visit [Prostate Cancer UK](https://prostatecanceruk.org).
 
 Prostate Cancer UK is a registered charity in England and Wales (1005541) and in Scotland (SC039332). Registered company number 02653887.
+
+---
+
 
 
 
