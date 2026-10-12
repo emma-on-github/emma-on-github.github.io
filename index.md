@@ -7,7 +7,7 @@ description: Data Administrator | Neurodivergent | Open to new opportunities
 
 Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.
 
-Always open to networking and discussing new opportunities.  To ensure a prompt response, please reach out exclusively via LinkedIn.
+Always open to networking and discussing new opportunities.  To ensure a prompt response, please reach out exclusively via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
 
 ---
 
@@ -91,12 +91,20 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 
 ---
 
-#### Professional Online Profiles:
+### Professional Online Profiles:
 
-- [GitHub](https://github.com/emma-on-github)
-- [Kaggle](https://www.kaggle.com/emmahicks)
-- [Credly](https://www.credly.com/users/emma-louise-hicks)
-- [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
+-	[mygwork](https://www.mygwork.com/en/members/professionals/emma-hicks/detail)
+-	[GitHub](https://github.com/emma-on-github)
+-	[Kaggle](https://www.kaggle.com/emmahicks)
+-	[Credly](https://www.credly.com/users/emma-louise-hicks)
+-	[Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
+
+
+---
+
+### Supporting:
+
+I am proudly supporting Prostate Cancer UK by raising awareness. To learn more about their vital work or to check your risk, visit [Prostate Cancer UK](https://prostatecanceruk.org).
 
 ---
 
@@ -106,5 +114,13 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8ebe6908-628f-4d10-bfd4-255a3cd78f70" />
 <img width="210" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/71b34146-5e70-4a31-b228-1eb16a6622d3" />
 <img width="240" alt="Google Data Aanalysis with Python Badge 08 12 25" src="https://github.com/user-attachments/assets/711f841a-2d57-42f8-91cc-1f8c5f3e555c" />
+<img width="400" alt="pcuk_supporting_black_rgb_supporting-1" src="https://github.com/user-attachments/assets/98d5fbc1-a6dc-4a9d-8546-eadd2db56f1b" />
+
+
+
+Prostate Cancer UK is a registered charity in England and Wales (1005541) and in Scotland (SC039332). Registered company number 02653887.
+
+
+
 
 
