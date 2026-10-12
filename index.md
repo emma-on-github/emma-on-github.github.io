@@ -13,9 +13,10 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 
 #### Professional Membership:
 
-- Professional Member (MBCS), BCS – The Chartered Institute for IT
-- Member, DAMA UK – The Data Management Association
-- Member, The Institute of AI (IoAI) – The Professional Body for AI
+-	[BCS – The Chartered Institute for IT: Professional Member (MBCS)](https://www.bcs.org/find-a-bcs-member/)
+-	[DAMA UK – The Data Management Association: Member](https://www.dama-uk.org)
+-	[The Institute of AI (IoAI): Member](https://theinstituteofai.co.uk)
+
 
 ---
 
@@ -79,9 +80,20 @@ Always open to networking and discussing new opportunities.  To ensure a prompt 
 
 ---
 
+#### Online Profiles:
+
+- [GitHub](https://github.com/emma-on-github)
+- [Kaggle](https://www.kaggle.com/emmahicks)
+- [Credly](https://www.credly.com/users/emma-louise-hicks)
+- [Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
+
+---
+
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/afd2f2a8-98a1-4f2f-a071-31ce52f8f9f8" />
+<img width="200" alt="ioai-member-badge-light" src="https://github.com/user-attachments/assets/4dc05214-98ef-4976-a67d-4a90fdda4e8e" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/d1e8885d-ff7a-4ab2-903b-d5aed1650390" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8ebe6908-628f-4d10-bfd4-255a3cd78f70" />
 <img width="210" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/71b34146-5e70-4a31-b228-1eb16a6622d3" />
+<img width="240" alt="Google Data Aanalysis with Python Badge 08 12 25" src="https://github.com/user-attachments/assets/711f841a-2d57-42f8-91cc-1f8c5f3e555c" />
 
 
