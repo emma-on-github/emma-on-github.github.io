@@ -7,7 +7,7 @@ description: Data Administrator | Neurodivergent | Open to new opportunities
 
 Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.
 
-Always open to networking and discussing new opportunities.  To ensure a prompt response, please reach out via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
+Always open to networking and discussing new opportunities.  Please reach out via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
 
 ---
 
