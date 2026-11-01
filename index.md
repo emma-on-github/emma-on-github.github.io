@@ -5,7 +5,7 @@ description: Data Administrator | Neurodivergent | Open to new opportunities
 
 #### Personal Profile:
 
-Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.  Seeking a part-time role in Witney or the surrounding area where strong data quality, systems administration and technical support skills can add immediate value.
+Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.  Seeking a part-time role in Witney, Oxfordshire or the surrounding area where strong data quality, systems administration and technical support skills can add immediate value.
 
 Always open to networking and discussing new opportunities.  Please reach out via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
 
