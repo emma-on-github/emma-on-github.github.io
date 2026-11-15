@@ -35,6 +35,7 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 [Google AI Studio (App hosted via Vercel)](https://cryptodata-exporter.vercel.app)
 
 -	A clean, dark mode web app to view interactive historical charts and export daily cryptocurrency OHLCV data in GBP (£) to CSV.
+
 ---
 
 <img width="1862" alt="PartyRock" src="https://github.com/user-attachments/assets/3462388c-f0ed-4d33-878e-caff20e962e8" />
@@ -74,13 +75,23 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Projects:
 
+<img width="1858" alt="TransGuide UK" src="https://github.com/user-attachments/assets/ee4b6279-2a79-49d2-8398-59455748e29b" />
+
 [TransGuide UK](https://emma-on-github.github.io/transguide-uk/)
 
 -	A factual, standalone resource hub designed to provide clear and evidence-based guidance for transgender people and allies across the United Kingdom. The site offers straightforward information to help users navigate UK healthcare, legal processes, and everyday rights while countering misinformation.
 
+---
+
+<img width="1892" alt="Digital ID&#39;s and Autism" src="https://github.com/user-attachments/assets/5d9387e8-30e6-4c83-8ff9-89ed6aca5bbc" />
+
 [Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
 
 -	A comprehensive commentary exploring the societal, technical, and cognitive barriers that national digital identity schemes present to autistic individuals. Written from an autistic perspective, the article highlights how biometric tracking, automated verification, and digital-first public services risk marginalising neurodivergent groups within the 2026 policy landscape.
+
+---
+
+<img width="1863" alt="Tableau Public" src="https://github.com/user-attachments/assets/85977710-97dd-4a75-b9b8-d09e0cc7ecdf" />
 
 [Tableau Public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
 
