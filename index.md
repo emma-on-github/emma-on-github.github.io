@@ -30,8 +30,18 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Prompt Engineering Skills:
 
--	[Google AI Studio](https://github.com/emma-on-github/Translate-to-English)
--	[AWS PartyRock](https://partyrock.aws/u/emmahicks)
+<img width="1895" height="908" alt="Google AI Studio" src="https://github.com/user-attachments/assets/12cde5ef-000b-44f5-8d51-c8e4a9e8a3e9" />
+
+[Built on Google AI Studio - hosted via Vercel](https://cryptodata-exporter.vercel.app)
+-	A clean, dark mode web app to view interactive historical charts and export daily cryptocurrency OHLCV data in GBP (£) to CSV.
+
+---
+
+<img width="1862" height="904" alt="PartyRock" src="https://github.com/user-attachments/assets/7d27602e-9b37-40b3-adbd-b8eb4e4dfdb8" />
+
+[AWS PartyRock]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
+
+-	Universal Language to English Translator: An AWS PartyRock app that automatically detects dozens of languages from pasted text or uploaded documents (.pdf, .docx) and translates them into English.
 
 ---
 
@@ -60,16 +70,31 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 **Oxford Brookes University**
 -	BA (Hons) Business and Management
 
+---
+
+#### Projects:
+
+<img width="1858" height="891" alt="TransGuide UK" src="https://github.com/user-attachments/assets/d8831350-4bd1-43e8-8d6b-2826314636f5" />
+
+[TransGuide UK](https://emma-on-github.github.io/transguide-uk/)
+
+-	A factual, standalone resource hub designed to provide clear and evidence-based guidance for transgender people and allies across the United Kingdom. The site offers straightforward information to help users navigate UK healthcare, legal processes, and everyday rights while countering misinformation.
 
 ---
 
-#### GitHub Pages:
-
-[TransGuide UK](https://emma-on-github.github.io/transguide-uk/)
--	A factual, standalone resource hub designed to provide clear and evidence-based guidance for transgender people and allies across the United Kingdom. The site offers straightforward information to help users navigate UK healthcare, legal processes, and everyday rights while countering misinformation.
+<img width="1892" height="890" alt="Digital ID&#39;s and Autism" src="https://github.com/user-attachments/assets/cf45ee96-a26c-42cf-8c9d-5ef3ef641095" />
 
 [Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
+
 -	A comprehensive commentary exploring the societal, technical, and cognitive barriers that national digital identity schemes present to autistic individuals. Written from an autistic perspective, the article highlights how biometric tracking, automated verification, and digital-first public services risk marginalising neurodivergent groups within the 2026 policy landscape.
+
+---
+
+<img width="1863" height="900" alt="Tableau Public" src="https://github.com/user-attachments/assets/b6095838-3dab-4089-81ac-55bc2904b5ed" />
+
+[Tableau public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
+
+-	The Interactive OSINT Operations Framework reimagines the classic OSINT Framework architecture as a dynamic, visual directory built entirely with Tableau Viz Extensions. Curating open-source intelligence tool definitions from public security repositories like the Awesome OSINT Project, this dashboard helps investigators and researchers quickly discover free resources, explore usage contexts, and review operational security (OPSEC) notes.
 
 ---
 
@@ -79,8 +104,6 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 -	[GitHub](https://github.com/emma-on-github)
 -	[Kaggle](https://www.kaggle.com/emmahicks)
 -	[Credly](https://www.credly.com/users/emma-louise-hicks)
--	[Tableau Public](https://public.tableau.com/app/profile/emmahicks/vizzes)
-
 
 ---
 
