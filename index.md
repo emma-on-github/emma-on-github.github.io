@@ -76,7 +76,7 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 -	A comprehensive commentary exploring the societal, technical, and cognitive barriers that national digital identity schemes present to autistic individuals. Written from an autistic perspective, the article highlights how biometric tracking, automated verification, and digital-first public services risk marginalising neurodivergent groups within the 2026 policy landscape.
 
-[Tableau public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
+[Tableau Public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
 
 -	The Interactive OSINT Operations Framework reimagines the classic OSINT Framework architecture as a dynamic, visual directory built entirely with Tableau Viz Extensions. Curating open-source intelligence tool definitions from public security repositories like the Awesome OSINT Project, this dashboard helps investigators and researchers quickly discover free resources, explore usage contexts, and review operational security (OPSEC) notes.
 
