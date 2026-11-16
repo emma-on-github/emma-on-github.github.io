@@ -30,7 +30,7 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Prompt Engineering Skills:
 
-<img width="1895" alt="Google AI Studio" src="https://github.com/user-attachments/assets/4ec908f3-ddc2-436c-a7ae-12dc5896ba90" />
+<img width="1902" alt="Google AI Studio" src="https://github.com/user-attachments/assets/f057609a-3ddf-4912-a02b-bc7e793de3aa" />
 
 [Google AI Studio (App hosted via Vercel)](https://cryptodata-exporter.vercel.app)
 
