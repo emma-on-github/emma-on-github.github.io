@@ -38,7 +38,8 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 ---
 
-<img width="1862" alt="PartyRock" src="https://github.com/user-attachments/assets/3462388c-f0ed-4d33-878e-caff20e962e8" />
+<img width="1862" alt="PartyRock" src="https://github.com/user-attachments/assets/6f3c4fc7-c101-485f-8ea9-8b0a5a5f546e" />
+
 
 [AWS PartyRock]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
 
@@ -75,7 +76,7 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Projects:
 
-<img width="1858" alt="TransGuide UK" src="https://github.com/user-attachments/assets/ee4b6279-2a79-49d2-8398-59455748e29b" />
+<img width="1858" alt="TransGuide UK" src="https://github.com/user-attachments/assets/93751955-5f71-426f-89e2-2cc6e47ddf33" />
 
 [TransGuide UK](https://emma-on-github.github.io/transguide-uk/)
 
@@ -83,15 +84,15 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 ---
 
-<img width="1892" alt="Digital ID&#39;s and Autism" src="https://github.com/user-attachments/assets/5d9387e8-30e6-4c83-8ff9-89ed6aca5bbc" />
+<img width="1892" alt="Digital ID&#39;s and Autism" src="https://github.com/user-attachments/assets/a8bcff05-6481-4cce-8440-175876d0486c" />
 
-[Digital IDs and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
+[Digital ID's and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
 
 -	A comprehensive commentary exploring the societal, technical, and cognitive barriers that national digital identity schemes present to autistic individuals. Written from an autistic perspective, the article highlights how biometric tracking, automated verification, and digital-first public services risk marginalising neurodivergent groups within the 2026 policy landscape.
 
 ---
 
-<img width="1863" alt="Tableau Public" src="https://github.com/user-attachments/assets/85977710-97dd-4a75-b9b8-d09e0cc7ecdf" />
+<img width="1863" alt="Tableau Public" src="https://github.com/user-attachments/assets/d515f42e-7f6c-48ff-83f4-af9c041a20ab" />
 
 [Tableau Public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
 
