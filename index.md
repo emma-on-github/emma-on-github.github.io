@@ -30,14 +30,6 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Prompt Engineering Skills:
 
-<img width="1902" alt="Google AI Studio" src="https://github.com/user-attachments/assets/f057609a-3ddf-4912-a02b-bc7e793de3aa" />
-
-[Google AI Studio (App hosted via Vercel)](https://cryptodata-exporter.vercel.app)
-
--	A clean, dark mode web app to view interactive historical charts and export daily cryptocurrency OHLCV data in GBP (£) to CSV.
-
----
-
 <img width="1862" alt="PartyRock" src="https://github.com/user-attachments/assets/6f3c4fc7-c101-485f-8ea9-8b0a5a5f546e" />
 
 
