@@ -30,9 +30,6 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Prompt Engineering Skills:
 
-<img width="1862" alt="PartyRock" src="https://github.com/user-attachments/assets/6f3c4fc7-c101-485f-8ea9-8b0a5a5f546e" />
-
-
 [AWS PartyRock]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
 
 -	Universal Language to English Translator: An AWS PartyRock app that automatically detects dozens of languages from pasted text or uploaded documents (.pdf, .docx) and translates them into English.
@@ -68,23 +65,17 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Projects:
 
-<img width="1858" alt="TransGuide UK" src="https://github.com/user-attachments/assets/93751955-5f71-426f-89e2-2cc6e47ddf33" />
-
 [TransGuide UK](https://emma-on-github.github.io/transguide-uk/)
 
 -	A factual, standalone resource hub designed to provide clear and evidence-based guidance for transgender people and allies across the United Kingdom. The site offers straightforward information to help users navigate UK healthcare, legal processes, and everyday rights while countering misinformation.
 
 ---
 
-<img width="1892" alt="Digital ID&#39;s and Autism" src="https://github.com/user-attachments/assets/a8bcff05-6481-4cce-8440-175876d0486c" />
-
 [Digital ID's and Autism](https://emma-on-github.github.io/digital-ids-and-autism/)
 
 -	A comprehensive commentary exploring the societal, technical, and cognitive barriers that national digital identity schemes present to autistic individuals. Written from an autistic perspective, the article highlights how biometric tracking, automated verification, and digital-first public services risk marginalising neurodivergent groups within the 2026 policy landscape.
 
 ---
-
-<img width="1863" alt="Tableau Public" src="https://github.com/user-attachments/assets/d515f42e-7f6c-48ff-83f4-af9c041a20ab" />
 
 [Tableau Public](https://public.tableau.com/app/profile/emmahicks/viz/InteractiveOSINTOperationsFramework/Dashboard1)
 
