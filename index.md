@@ -1,11 +1,11 @@
 ---
 title: Emma Hicks
-description: Data & Systems Administrator | Neurodivergent | Open to new opportunities
+description: Data & Systems Administrator | Open to new opportunities
 ---
 
 #### Personal Profile:
 
-Data & Systems Administrator with 20 years’ experience delivering accurate, ethical data insights across the charity, healthcare, and retail sectors.  Proven track record in optimising MIS, CRM, Financial Management Systems (FMS), and Excel, backed by recent professional development in SQL, Python, and AI.
+Data & Systems Administrator with 20 years’ experience delivering accurate data management across the charity, education and engineering sectors.  Proven track record in optimising MIS, CRM, Financial Management Systems (FMS), and Excel, backed by recent professional development in SQL, Python, and AI.  
 
 Always open to networking and discussing new opportunities.  Please reach out via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
 
