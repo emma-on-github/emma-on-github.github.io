@@ -1,6 +1,6 @@
 ---
 title: Emma Hicks
-description: Data & Systems Administrator (MBCS) | Delivering Accurate, Ethical Data Insights with MIS, CRM, FMS & Excel | Supporting Charities, Healthcare & Retail in Witney & Oxfordshire
+description: Data & Systems Administrator | Neurodivergent | Open to new opportunities
 ---
 
 #### Personal Profile:
