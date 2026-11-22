@@ -1,11 +1,11 @@
 ---
 title: Emma Hicks
-description: Data Administrator | Neurodivergent | Open to new opportunities
+description: Data & Systems Administrator (MBCS) | Delivering Accurate, Ethical Data Insights with MIS, CRM, FMS & Excel | Supporting Charities, Healthcare & Retail in Witney & Oxfordshire
 ---
 
 #### Personal Profile:
 
-Data Administrator with 20 years’ experience maintaining accurate information systems across the charity, healthcare and retail sectors.  Experienced in MIS, CRM, Financial Management Systems and Excel, with recent professional development in SQL, Python and AI.
+Data & Systems Administrator with 20 years’ experience delivering accurate, ethical data insights across the charity, healthcare, and retail sectors.  Proven track record in optimising MIS, CRM, Financial Management Systems (FMS), and Excel, backed by recent professional development in SQL, Python, and AI.
 
 Always open to networking and discussing new opportunities.  Please reach out via [LinkedIn]( https://www.linkedin.com/in/emmahicks01).
 
