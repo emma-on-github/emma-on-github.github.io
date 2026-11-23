@@ -30,9 +30,11 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 
 #### Prompt Engineering Skills:
 
-[AWS PartyRock]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
+[Python Path](https://python-path-assessment.vercel.app)
+-	Built with Google AI Studio, version-controlled via GitHub, and deployed on Vercel: A privacy-first, zero-storage interactive Python learning studio built for beginners. Runs Python 3 locally in the browser via Pyodide WebAssembly with 10 guided exercises, plain-English error tips, a collapsible cheat sheet, and client-side landscape PDF certificates.
 
--	Universal Language to English Translator: An AWS PartyRock app that automatically detects dozens of languages from pasted text or uploaded documents (.pdf, .docx) and translates them into English.
+[Universal Language to English Translator]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
+-	Built and hosted on AWS PartyRock: An AI-powered translation tool that automatically detects dozens of languages from pasted text or uploaded documents (.pdf, .docx) and converts them into natural, accurate English.
 
 ---
 
