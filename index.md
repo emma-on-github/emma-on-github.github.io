@@ -31,7 +31,8 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 #### Prompt Engineering Skills:
 
 [Python Path](https://python-path-assessment.vercel.app)
--	Built with Google AI Studio, version-controlled via GitHub, and deployed on Vercel: A privacy-first, zero-storage interactive Python learning studio built for beginners. Runs Python 3 locally in the browser via Pyodide WebAssembly with 10 guided exercises, plain-English error tips, a collapsible cheat sheet, and client-side landscape PDF certificates.
+- Built with Google AI Studio, version-controlled via GitHub, and deployed on Vercel: A zero-storage, UK GDPR-compliant interactive Python 3 training and certification studio. Runs entirely in the browser via Pyodide WebAssembly with 18 guided self-study lessons, a built-in cheat sheet, and a 15-challenge tiered exam with hidden assert validation that generates on-device Beginner, Intermediate, or Advanced PDF certificates.
+
 
 [Universal Language to English Translator]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
 -	Built and hosted on AWS PartyRock: An AI-powered translation tool that automatically detects dozens of languages from pasted text or uploaded documents (.pdf, .docx) and converts them into natural, accurate English.
