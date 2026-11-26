@@ -31,7 +31,7 @@ Always open to networking and discussing new opportunities.  Please reach out vi
 #### Prompt Engineering Skills:
 
 [Python Path](https://python-path-assessment.vercel.app)
-- Built with Google AI Studio, version-controlled via GitHub, and deployed on Vercel: A zero-storage, UK GDPR-compliant interactive Python 3 training and certification studio. Runs entirely in the browser via Pyodide WebAssembly with 18 guided self-study lessons, a built-in cheat sheet, and a 15-challenge tiered exam with hidden assert validation that generates on-device Beginner, Intermediate, or Advanced PDF certificates.
+- #Built with Google AI Studio, version-controlled via GitHub, and deployed on Vercel: Python Path is a free, privacy-first Python 3 training and certification studio. Running client-side via Pyodide WebAssembly with zero data storage (UK GDPR-compliant), it offers 18 interactive lessons, a filterable syntax cheat sheet, and selectable single-level or full 15-challenge exams with hidden assert validation that render high-resolution Beginner, Intermediate, Advanced, or Complete All-3-Tiers PDF certificates locally. 
 
 
 [Universal Language to English Translator]( https://partyrock.aws/u/emmahicks/q2K5_n-5d/Universal-Language-to-English-Translator)
